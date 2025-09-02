@@ -1,5 +1,4 @@
-# Dev365
-# Lógica de Programação e Javascript
+# Dev365 - Lógica de Programação e Javascript
 
 Este é um repositório para documentar meu aprendizado em programação.
 
